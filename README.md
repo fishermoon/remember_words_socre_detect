@@ -1,0 +1,1 @@
+# remember_words_socre_detect
